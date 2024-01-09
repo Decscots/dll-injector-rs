@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-- [Rustup](<https://rustup.rs/>) (only needed for building, you can just download the binaries from the [releases page](<https://github.com/Decscots/dll-injector-rs/releases>)
+- [Rustup](<https://rustup.rs/>) (only needed for building, you can just download the binaries from the [releases page](<https://github.com/Decscots/dll-injector-rs/releases>))
 - A Windows computer
 
 ## Building
